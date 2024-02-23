@@ -1,5 +1,3 @@
-pip install pandas
-
 import pandas as pd
 from clearml import TaskTypes, Task
 from clearml.automation.controller import PipelineDecorator
